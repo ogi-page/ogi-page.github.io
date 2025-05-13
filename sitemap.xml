@@ -1,7 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://ogi.page/</loc>
     <lastmod>2024-03-26</lastmod>
+    <image:image>
+      <image:loc>https://ogi.page/favicon.svg</image:loc>
+      <image:title>Ōgi logo</image:title>
+      <image:caption>Ōgi - The King's board game</image:caption>
+    </image:image>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.ogi.page/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.ogi.page/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://ja.ogi.page/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://th.ogi.page/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://zh.ogi.page/"/>
+  </url>
+  <url>
+    <loc>https://en.ogi.page/</loc>
+    <lastmod>2024-03-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.ogi.page/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://ja.ogi.page/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://th.ogi.page/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://zh.ogi.page/"/>
+  </url>
+  <url>
+    <loc>https://fr.ogi.page/</loc>
+    <lastmod>2024-03-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.ogi.page/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://ja.ogi.page/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://th.ogi.page/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://zh.ogi.page/"/>
+  </url>
+  <url>
+    <loc>https://ja.ogi.page/</loc>
+    <lastmod>2024-03-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.ogi.page/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.ogi.page/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://th.ogi.page/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://zh.ogi.page/"/>
+  </url>
+  <url>
+    <loc>https://th.ogi.page/</loc>
+    <lastmod>2024-03-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.ogi.page/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.ogi.page/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://ja.ogi.page/"/>
+    <xhtml:link rel="alternate" hreflang="zh" href="https://zh.ogi.page/"/>
+  </url>
+  <url>
+    <loc>https://zh.ogi.page/</loc>
+    <lastmod>2024-03-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://en.ogi.page/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://fr.ogi.page/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://ja.ogi.page/"/>
+    <xhtml:link rel="alternate" hreflang="th" href="https://th.ogi.page/"/>
   </url>
 </urlset>
